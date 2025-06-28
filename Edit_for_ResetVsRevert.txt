@@ -1,0 +1,4 @@
+Ini adalah file "tumbal" 
+untuk belajar Reset vs Revert.
+Kalimat di atas 
+adalah isian awalnya.
