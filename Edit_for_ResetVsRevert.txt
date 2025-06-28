@@ -2,10 +2,3 @@ Ini adalah file "tumbal"
 untuk belajar Reset vs Revert.
 Kalimat di atas 
 adalah isian awalnya.
-------------------------------
-Garis pembatas dan kalimat
-di bawahnya adalah
-editan untuk melihat Reset vs Revert
-------------------------------
-Bagian ini diisi
-pada pukul 01:17
